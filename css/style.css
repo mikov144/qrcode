@@ -111,7 +111,7 @@ body {
 }
 .main__attribution {
   position: absolute;
-  bottom: 0;
+  bottom: 5px;
   font-size: 11px;
   color: hsl(228, 45%, 44%);
 }/*# sourceMappingURL=style.css.map */
